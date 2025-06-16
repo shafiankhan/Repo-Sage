@@ -4,7 +4,7 @@
 
 RepoSage transforms your development workflow with cutting-edge AI that understands your codebase and intelligently analyzes your team meetings. Get instant answers, smart summaries, and actionable insights to supercharge your productivity.
 
-![RepoSage Dashboard](https://drive.google.com/file/d/1m_etAkC7NY-1Hm-ryc8q6b3wn4bG865q/view?usp=sharing)
+![RepoSage Dashboard](![image](https://github.com/user-attachments/assets/d1dff47d-69c8-43c3-90e4-3be6391bc50e))
 
 ## ✨ Features
 
