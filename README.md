@@ -4,7 +4,7 @@
 
 RepoSage transforms your development workflow with cutting-edge AI that understands your codebase and intelligently analyzes your team meetings. Get instant answers, smart summaries, and actionable insights to supercharge your productivity.
 
-![RepoSage Dashboard](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&h=600&fit=crop)
+![RepoSage Dashboard](https://drive.google.com/file/d/1m_etAkC7NY-1Hm-ryc8q6b3wn4bG865q/view?usp=sharing)
 
 ## ✨ Features
 
@@ -44,7 +44,7 @@ RepoSage transforms your development workflow with cutting-edge AI that understa
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/reposage.git
+   git clone https://github.com/shafiankhan/Repo-Sage
    cd reposage
    ```
 
